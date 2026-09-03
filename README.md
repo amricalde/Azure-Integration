@@ -26,4 +26,14 @@ https://learn.microsoft.com/en-us/azure/role-based-access-control/elevate-access
 
 https://docs.azure.cn/en-us/entra/identity/hybrid/connect/how-to-connect-install-prerequisites 
 
+
+Next task:
+- watch videos how to create VM
+- create vm, explore it. Ask questions, take notes.
+- watch videos how to integrate vm ad to cloud using microsoft entra connect
+- check and duplicate vm to experiment on incase something happens
+- do the steps to make the hybrid environment
+- test it works
+- move on to the next steps exploring resources
+
 -->
