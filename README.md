@@ -26,10 +26,14 @@ https://learn.microsoft.com/en-us/azure/role-based-access-control/elevate-access
 
 https://docs.azure.cn/en-us/entra/identity/hybrid/connect/how-to-connect-install-prerequisites 
 
+https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/tutorial-passthrough-authentication - steps on how to make it hybrid
+https://github.com/billmath/tutorial-phs/blob/master/3_InstallAD.ps1 - scripts related to link above
+https://learn.microsoft.com/en-us/entra/fundamentals/create-new-tenant?tabs=workforce - creating new tenants
+
 
 Next task:
-- watch videos how to create VM
-- create vm, explore it. Ask questions, take notes.
+✅ - watch videos how to create VM
+✅ - create vm, explore it. Ask questions, take notes.
 - watch videos how to integrate vm ad to cloud using microsoft entra connect
 - check and duplicate vm to experiment on incase something happens
 - do the steps to make the hybrid environment
