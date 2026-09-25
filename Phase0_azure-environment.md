@@ -13,5 +13,7 @@ today i:
 - signed it to microsoft365 to verify this account works
 - learned about tenants
 - realized i didnt need a custom domain cus tenant already generated the onmicrosoft.com domain
-- ready for next step which is to install and configure entra connect on my on-prem Windows Server VM
+- ready for next step which is to install and configure entra connect on my on-prem Windows Server VM (https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/tutorial-passthrough-authentication)
+  - create 2 more users on on-prem 
+  - when opening ad vm check to see if you are properly connected to wifi to be able to connect online
 -->
