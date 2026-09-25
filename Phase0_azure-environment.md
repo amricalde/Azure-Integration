@@ -1,6 +1,21 @@
 Phase 0 Azure Environment
 - 
-🚧🛠️ Work in progress 🛠️🚧
+
+🟡 Work in progress 🟡 <br>
+Before beginning the hybrid integration, I reviewed the Azure environment and prepared the accounts and resources needed for the project.
+
+Four main points for this section:
+- Prepare the on-premises Active Directory environment 
+- Create a Hybrid Identity Administrator account in Microsoft Entra ID
+- Verify the administrator account
+- Understand Microsoft Tenants
+
+Create a Create a Hybrid Identity Administrator account in Microsoft Entra ID
+- 
+![HIA-sc](https://github.com/amricalde/Azure-Integration/blob/main/screenshots/s0_1.jpeg)
+
+
+
 <!--
 
 Sept 17 recap:
